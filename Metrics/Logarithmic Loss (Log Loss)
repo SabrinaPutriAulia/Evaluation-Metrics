@@ -1,0 +1,5 @@
+Description:
+Logarithmic Loss (Log Loss) evaluates the performance of a probabilistic classification model by calculating the distance between the predicted probability distribution and the actual label. The smaller the log loss value, the better the model.
+
+Context of Use:
+Commonly used in recommendation systems and user behavior prediction models.
