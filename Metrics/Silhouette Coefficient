@@ -1,0 +1,5 @@
+Description:
+This metric measures how well objects in a cluster fit into that cluster compared to other clusters. Values range from -1 (poor clustering) to 1 (excellent clustering).
+
+Context of Use:
+Used to evaluate clustering algorithms in social network analysis and big data management.
