@@ -1,0 +1,5 @@
+Description:
+Mean Absolute Error (MAE) is a regression metric that calculates the mean of the absolute differences between predicted and actual values. It provides a straightforward understanding of the average prediction error.
+
+Usage Context:
+Used in predicting prices (e.g., house prices), energy consumption, and applications requiring numerical outputs.
