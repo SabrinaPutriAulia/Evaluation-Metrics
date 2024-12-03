@@ -1,0 +1,5 @@
+Description:
+Matthews Correlation Coefficient (MCC) is a classification metric that accounts for all values in the confusion matrix (TP, FP, TN, FN). Its value ranges from -1 to 1, where 1 indicates perfect classification, 0 indicates random performance, and -1 indicates total misclassification.
+
+Usage Context:
+Often used in imbalanced datasets, such as malware detection or rare disease classification.
