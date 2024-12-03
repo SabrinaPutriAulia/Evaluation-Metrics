@@ -1,0 +1,4 @@
+Description:
+Root Mean Square Error (RMSE) calculates the square root of the average squared differences between predictions and actual values. It penalizes larger errors more than MAE, making it sensitive to outliers.
+Usage Context:
+Used in applications like weather prediction, demand forecasting, and project cost estimation.
